@@ -8,4 +8,4 @@ python server.py
 ```
 
 #### smart contract backend
-look at the [backend contract](https://github.com/calcuis/container-smart-contract)
+check the [backend contract](https://github.com/calcuis/container-smart-contract)
