@@ -18,7 +18,7 @@ list new container(s):
 
 [<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo3.png" width="180" height="132">](https://github.com/calcuis/container-frontend/master/demo3.png)
 
-plus edit listed container content (except price) before sold
+plus, edit listed container content (except price) before sold
 
 #### owner (transferable)
 transfer shop ownership; assign admin role; close/open the shop:
