@@ -33,7 +33,7 @@ redeem shop balances:
 in addition, edit the container price before sold
 
 ### smart contract backend
-check the [contract source code](https://github.com/calcuis/container-smart-contract) 📜
+check the [contract source code](https://github.com/calcuis/container-smart-contract) 📜📚
 
 testnet deployment:
 - Goerli (chain id: `5`; compiler version: ^0.8.24)
