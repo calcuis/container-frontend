@@ -14,14 +14,14 @@ python server.py
 #### player (everybody)
 get container(s) from shop; can edit owned container with unlimited times! e.g., you can change the name and image to a rare cryptopunk and show it off to your fatty peer(s)🐷🐷🐷 you have owned the most expensive 🐷JPEG🖼️! in a nutshell: you own the container🍼 you own the planet🌎 sounds good🐷?
 #### admin (assigned by owner)
-can list new container(s):
+list new container(s):
 
 [<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo3.png" width="170" height="125">](https://github.com/calcuis/container-frontend/master/demo3.png)
 
-in addition: edit listed container content (except price) before sold
+plus edit listed container content (except price) before sold
 
 #### owner (transferable)
-can transfer shop ownership; assign admin role; close/open the shop:
+transfer shop ownership; assign admin role; close/open the shop:
 
 [<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo4.png" width="180" height="245">](https://github.com/calcuis/container-frontend/master/demo4.png)
 
