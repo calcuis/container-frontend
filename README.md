@@ -28,7 +28,7 @@ transfer shop ownership; assign admin role; close/open the shop:
 redeem shop balances:
 
 [<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo5.png" width="160" height="245">](https://github.com/calcuis/container-frontend/master/demo5.png)
-🐷
+🍼🐷
 
 in addition, edit the container price before sold
 
