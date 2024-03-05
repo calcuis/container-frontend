@@ -21,7 +21,7 @@ can list new container(s); edit listed container content (except price) before s
 #### owner (transferable)
 can transfer shop ownership; assign admin role; close/open the shop; redeem shop balances; in addition: edit the container price before sold
 
-[<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo4.png" width="180" height="245">](https://github.com/calcuis/container-frontend/master/demo4.png)
+[<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo4.png" width="160" height="245">](https://github.com/calcuis/container-frontend/master/demo4.png)
 [<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo5.png" width="160" height="245">](https://github.com/calcuis/container-frontend/master/demo5.png)
 
 ### smart contract backend
