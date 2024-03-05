@@ -6,8 +6,8 @@ container js frontend
 ```
 python server.py
 ```
-[<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo1.png" width="365" height="430">](https://github.com/calcuis/container-frontend/master/demo1.png)
-[<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo2.png" width="365" height="430">](https://github.com/calcuis/container-frontend/master/demo2.png)
+[<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo1.png" width="350" height="400">](https://github.com/calcuis/container-frontend/master/demo1.png)
+[<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo2.png" width="350" height="400">](https://github.com/calcuis/container-frontend/master/demo2.png)
 
 ### smart contract backend
 check the [contract source code](https://github.com/calcuis/container-smart-contract) 
