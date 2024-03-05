@@ -12,7 +12,7 @@ python server.py
 🎮play with testnet(s)🍿 awesome🐷
 
 #### player (everybody)
-get container(s) from shop; can edit owned container with unlimited times! e.g., you can change the name and image to a rare cryptopunk and show it off to your fatty peer(s)🐷🐷; you have owned the most expensive 🐷JPEG🖼️! in a nutshell: you own the container🫙 you own the planet🌎 sounds good🐷?
+get container(s) from shop; can edit owned container with unlimited times! e.g., you can change the name and image to a rare cryptopunk and show it off to your fatty peer(s)🐷🐷🐷; you have owned the most expensive 🐷JPEG🖼️! in a nutshell: you own the container🫙 you own the planet🌎 sounds good🐷?
 #### admin (assigned by owner)
 can list new container(s); edit listed container content (except price) before sold
 #### owner (transferable)
