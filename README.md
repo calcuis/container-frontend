@@ -16,7 +16,7 @@ get container(s) from shop; can edit owned container with unlimited times! e.g.,
 #### admin (assigned by owner)
 can list new container(s); edit listed container content (except price) before sold
 #### owner (transferable)
-can transfer shop ownership; assign admin role; close/open the shop; in addition: edit the container price before sold
+can transfer shop ownership; assign admin role; close/open the shop; redeem shop balances; in addition: edit the container price before sold
 
 ### smart contract backend
 check the [contract source code](https://github.com/calcuis/container-smart-contract) 
