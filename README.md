@@ -13,6 +13,11 @@ python server.py
 
 #### player (everybody)
 get container(s) from shop; can edit owned container with unlimited times! e.g., you can change the name and image to a rare cryptopunk and show it off to your fatty peer(s)🐷🐷🐷 you have owned the most expensive 🐷JPEG🖼️! in a nutshell: you own the container🍼 you own the planet🌎 sounds good🐷?
+
+[<img src="https://raw.githubusercontent.com/calcuis/container-frontend/master/demo6.png" width="335" height="290">](https://github.com/calcuis/container-frontend/master/demo6.png)
+
+em.. you can modify the container under the portfolio tab as above🐷; if you set the container as your ens avatar, it will source the updated one automatically; and you are able to see it beside the connect button (on top right corner)
+
 #### admin (assigned by owner)
 list new container(s):
 
